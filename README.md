@@ -2,9 +2,9 @@
 
 **Instructor:** Mimi Onuoha  
 **Term:** Fall 2018  
-**Time:** Wednesdays, 12:30pm-3:00pm 
-**Course Number:** TBA  
-**Office Hours:** in L36  
+**Time:** Wednesdays, 12:30pm-3:00pm  
+**Course Number:**  AHSE 2199-01   
+**Office Hours:** MHL36  
 **Homework Form**: https://goo.gl/forms/q63gysDdtad3HrWF2
 
 ## Course Description
