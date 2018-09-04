@@ -4,7 +4,7 @@
 **Term:** Fall 2018  
 **Time:** Wednesdays, 12:30pm-3:00pm  
 **Course Number:**  AHSE 2199-01   
-**Office Hours:** MHL36  
+**Office Hours:** MHL36, Tuesdays 1-3pm or by email  
 **Homework Form**: https://goo.gl/forms/q63gysDdtad3HrWF2
 
 ## Course Description
@@ -63,37 +63,37 @@ We will discuss in class the rubrics for grading the projects.
 
 ## Syllabus
 
-**WEEK ONE (September 5):** Introductions, part 1 
+**WEEK ONE (September 5):** Introductions, part 1   
 *Why make art? Why make art specifically in response to technology? What does it mean to critically examine topics? Introductions to the class and one another. This class will introduce us to one another and set up the topics of the semester, conveying both examples of emerging technology and the concept of art as a space for creative response.*   
 
-**WEEK TWO (September 12):** Introductions, part 2
+**WEEK TWO (September 12):** Introductions, part 2  
 *We will examine art, and media art in particular, and consider what it means to evaluate and look at works of art.*
 
-**WEEK THREE (September 19):**  Collections and Archives, part 1
+**WEEK THREE (September 19):**  Collections and Archives, part 1  
 *The concepts of data collection and categorization predate the Internet. Why is it important to consider datasets as a form of archives?*
 
-**WEEK FOUR (September 26):**  Collections and Archives, part 2
+**WEEK FOUR (September 26):**  Collections and Archives, part 2  
 *How do we use datasets without even realizing it? Maps are a form of data representation and visualization that highlight some of the most salient and interesting points about data collection.* 
 
 **WEEK FIVE (October 3):**  Project 1 Presentations
 
-**WEEK SIX (October 10):**  The Internet, part 1
+**WEEK SIX (October 10):**  The Internet, part 1  
 *For the purposes of this class, everything begins with the Internet. Where did it come from, how does it work, and what does it mean for such a widely-used medium to have so much of its inner workings concealed?*
 
-**WEEK SEVEN (October 17):**  The Internet, part 2 
+**WEEK SEVEN (October 17):**  The Internet, part 2   
 *What does it mean for such a widely-used medium to have much of its inner workings concealed?* 
 
-**WEEK EIGHT (October 24):**   Project 2 Presentations
+**WEEK EIGHT (October 24):**   Project 2 Presentations  
 
-**WEEK NINE (October 31):** Automation, Social Algorithms, and AI, part 1
+**WEEK NINE (October 31):** Automation, Social Algorithms, and AI, part 1  
 *We are in a uniquely algorithmic moment. How do we make sense of this, how we got here, and the distance from the beginnings of the internet to here?*   
 
-**WEEK TEN (November 7):**  Automation, Social Algorithms, and AI, part 2
+**WEEK TEN (November 7):**  Automation, Social Algorithms, and AI, part 2  
 *What we are talking about when we really talk about automation.*
 
-**WEEK ELEVEN (November 21):**  Project 3 Presentations (initial versions)
+**WEEK ELEVEN (November 21):**  Project 3 Presentations (initial versions)     
 
-**WEEK TWELVE (November 28):** Futures
+**WEEK TWELVE (November 28):** Futures  
 *Alternatives, futures, and time in class to prepare for next week* 
 
 **WEEK THIRTEEN (December 5):** Final Presentations (with guest critics)  
