@@ -67,6 +67,18 @@ We will discuss in class the rubrics for grading the projects.
 **WEEK ONE (September 5):** Introductions, part 1   
 *This class will introduce us to one another and set up the topics of the semester, conveying both examples of emerging technology and the concept of art as a space for creative response.*   
 
+HOMEWORK: 
+
+- Complete [this survey](https://goo.gl/forms/kRfiAUwTg5U2WXgN2) about your interests, experience in different domains, work style, etc.  (Link again: https://goo.gl/forms/kRfiAUwTg5U2WXgN2)
+- Set up a blog or website set up for this class. For more control under the hood, I recommend creating a site using [Github Pages](https://medium.com/spemer/free-github-blog-and-hosting-with-jekyll-c24c408d158f) (for example, [this one](https://github.com/daattali/beautiful-jekyll) is very straightforward). But you can also use Tumblr, Canvas, Wordpress, or any other platform.  
+- Read [Bad Writer](https://sydneyreviewofbooks.com/bad-writer/) by Michael Mohammed Ahmad and post a 250-300 word response on your thoughts about the piece on your blog. Submit it using the homework form. 
+- Bring headphones and your laptop to class next week!
+- Extra reading [optional, in readings folder if not linked]
+  - Blaine Pascal, Pensée [#252](https://www.gutenberg.org/files/18269/18269-h/18269-h.htm)
+  - bell hooks, *Teaching Critical Thinking* 
+
+
+
 **WEEK TWO (September 12):** Introductions, part 2  
 *We will examine the field of media art, and consider what it means to evaluate works of art.*
 
