@@ -1,10 +1,11 @@
 # Creative Approaches to Emerging Technology  
 
 **Instructor:** Mimi Onuoha  
+**Contact:** conuoha@olin.edu   
 **Term:** Fall 2018  
 **Time:** Wednesdays, 12:30pm-3:00pm  
 **Course Number:**  AHSE 2199-01   
-**Office Hours:** MHL36, Tuesdays 1-3pm or by email  
+**Office Hours:** MHL36, Tuesdays 1-3pm ([sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUl0bkJBeEw5QmpTfGRlZmF1bHR8MTVmMGJiY2ZkYjkyNWQ0NGQ1Y2YzODliMDQ0MmRlODU)) or by email  
 **Homework Form**: https://goo.gl/forms/q63gysDdtad3HrWF2
 
 ## Course Description
@@ -64,16 +65,16 @@ We will discuss in class the rubrics for grading the projects.
 ## Syllabus
 
 **WEEK ONE (September 5):** Introductions, part 1   
-*Why make art? Why make art specifically in response to technology? What does it mean to critically examine topics? Introductions to the class and one another. This class will introduce us to one another and set up the topics of the semester, conveying both examples of emerging technology and the concept of art as a space for creative response.*   
+*This class will introduce us to one another and set up the topics of the semester, conveying both examples of emerging technology and the concept of art as a space for creative response.*   
 
 **WEEK TWO (September 12):** Introductions, part 2  
-*We will examine art, and media art in particular, and consider what it means to evaluate and look at works of art.*
+*We will examine the field of media art, and consider what it means to evaluate works of art.*
 
 **WEEK THREE (September 19):**  Collections and Archives, part 1  
-*The concepts of data collection and categorization predate the Internet. Why is it important to consider datasets as a form of archives?*
+*Concepts of data collection and categorization predate the Internet. Why is it important to consider datasets as a form of archives?*
 
 **WEEK FOUR (September 26):**  Collections and Archives, part 2  
-*How do we use datasets without even realizing it? Maps are a form of data representation and visualization that highlight some of the most salient and interesting points about data collection.* 
+*How do we use datasets without even realizing it? Considering maps as a form of data representation and visualization that highlight some of the most salient points about collection.* 
 
 **WEEK FIVE (October 3):**  Project 1 Presentations
 
@@ -93,7 +94,7 @@ We will discuss in class the rubrics for grading the projects.
 
 **WEEK ELEVEN (November 21):**  Project 3 Presentations (initial versions)     
 
-**WEEK TWELVE (November 28):** Futures  
+**WEEK TWELVE (November 28):** Futures 
 *Alternatives, futures, and time in class to prepare for next week* 
 
 **WEEK THIRTEEN (December 5):** Final Presentations (with guest critics)  
