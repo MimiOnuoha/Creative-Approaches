@@ -73,9 +73,9 @@ HOMEWORK:
 - Set up a blog or website set up for this class. For more control under the hood, I recommend creating a site using [Github Pages](https://medium.com/spemer/free-github-blog-and-hosting-with-jekyll-c24c408d158f) (for example, [this one](https://github.com/daattali/beautiful-jekyll) is very straightforward). But you can also use Tumblr, Canvas, Wordpress, or any other platform.  
 - Read [Bad Writer](https://sydneyreviewofbooks.com/bad-writer/) by Michael Mohammed Ahmad and post a 250-300 word response on your thoughts about the piece on your blog. Submit it using the homework form. 
 - Bring headphones and your laptop to class next week!
-- Extra reading [optional, in readings folder if not linked]
+- Extra reading [optional]
   - Blaine Pascal, Pensée [#252](https://www.gutenberg.org/files/18269/18269-h/18269-h.htm)
-  - bell hooks, *Teaching Critical Thinking* 
+  - bell hooks, [*Teaching Critical Thinking*](http://cdn0.inwithforward.com/images/bell-hooks-critical-thinking.pdf?mtime=20140729104110) 
 
 
 
