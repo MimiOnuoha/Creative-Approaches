@@ -70,9 +70,8 @@ We will discuss in class the rubrics for grading the projects.
 HOMEWORK: 
 
 - Complete [this survey](https://goo.gl/forms/kRfiAUwTg5U2WXgN2) about your interests, experience in different domains, work style, etc.  (Link again: https://goo.gl/forms/kRfiAUwTg5U2WXgN2)
-- Set up a blog or website set up for this class. For more control under the hood, I recommend creating a site using [Github Pages](https://medium.com/spemer/free-github-blog-and-hosting-with-jekyll-c24c408d158f) (for example, [this one](https://github.com/daattali/beautiful-jekyll) is very straightforward). But you can also use Tumblr, Canvas, Wordpress, or any other platform.  
+- Set up a blog or website set up for this class. For more control under the hood, I recommend creating a site using [Github Pages](https://medium.com/spemer/free-github-blog-and-hosting-with-jekyll-c24c408d158f) (for example, [this one](https://github.com/daattali/beautiful-jekyll) is very straightforward). But you can also use Tumblr, Canvas, Wordpress, or any other platform.
 - Read [Bad Writer](https://sydneyreviewofbooks.com/bad-writer/) by Michael Mohammed Ahmad and post a 250-300 word response on your thoughts about the piece on your blog. Submit it using the homework form. 
-- Bring headphones and your laptop to class next week!
 - Extra reading [optional]
   - Blaine Pascal, Pensée [#252](https://www.gutenberg.org/files/18269/18269-h/18269-h.htm)
   - bell hooks, [*Teaching Critical Thinking*](http://cdn0.inwithforward.com/images/bell-hooks-critical-thinking.pdf?mtime=20140729104110) 
@@ -82,8 +81,26 @@ HOMEWORK:
 **WEEK TWO (September 12):** Introductions, part 2  
 *We will examine the field of media art, and consider what it means to evaluate works of art.*
 
+HOMEWORK: 
+
+- Read: 
+  - [The Point of Collection](https://points.datasociety.net/the-point-of-collection-8ee44ad7c2fa)
+  - [Five Things We Need To Know About Technological Change](http://web.cs.ucdavis.edu/~rogaway/classes/188/materials/postman.pdf)
+
+- Last week you read "[Bad Writer](https://sydneyreviewofbooks.com/bad-writer/)", by Michael Mohammad Ahmad. In the piece, Ahmad talks about the need for those making creative pieces to have communities who can engage critically with their work.  **Your homework assignment is to evaluate one of the pieces that we looked at in class and respond by writing a 300-400 word review/critique* of it.**  What is the piece trying to do or say? What about the piece appeals to you? What works about it? What doesn't work? What could make it stronger, and what is adding to or taking away from its impact? Consider aspects like content, form, style, context, etc. Be thorough and thoughtful. Post the response on your blog or website and send it using the homework form. 
+
+  - *When I say "critique", I don't mean that you should be mean or aggressive (no need to emulate Ahmad's tone in Bad Writer, unless you have a compelling reason for it). It is totally fine to take the position that the work you are reviewing is a masterpiece, but you do need to explain to us why you think this. 
+  - The link to the list of projects you saw is [here](https://pad.riseup.net/p/CAET2018). You can also find a copy in the week2 folder. 
+
+- Extra reading [optional]
+
+  - [Art Against Information](http://eleven.fibreculturejournal.org/fcj-067-art-against-information-case-studies-in-data-practice/) by Mitchell Whitelaw
+
+  - Sorting Things Out* introduction (see readings folder)
+
+
 **WEEK THREE (September 19):**  Collections and Archives, part 1  
-*Concepts of data collection and categorization predate the Internet. Why is it important to consider datasets as a form of archives?*
+*We'll finish up our conversation on how to evaluate art and begin a conversation around data collection, categorization, and considering datasets as a form of archive.*
 
 **WEEK FOUR (September 26):**  Collections and Archives, part 2  
 *How do we use datasets without even realizing it? Considering maps as a form of data representation and visualization that highlight some of the most salient points about collection.* 
