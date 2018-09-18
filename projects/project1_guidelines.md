@@ -2,20 +2,19 @@
 
 ## Overview
 
-**Topic**: Data, collection, archives 
-**Medium:** Data visualization 
+**Due date: October 3**
 
-We've spent the last couple of weeks thinking about art, tech, and data collection. For your first assignment, you are tasked with creating a representation or visualization in response to a dataset. 
+We've spent the last couple of weeks thinking about data collection and what it means to make creative interventions and pieces. For your first project assignment, you are tasked with creating a project that engages with both of these. 
 
-[*This document will be updated with a link to the exact dataset on 9/18.*  ]
+For your week 2 homework assignment, you wrote a review of a new media art piece. For this assignment, you need to create your own piece that emulates the style of whatever project or piece you wrote about. You should change the *subject* of your own piece, but do it in the same *style* as the original work. 
 
-You should make an analog visualization or representation based off of this dataset.  Note that you may use software to make sense of the dataset, provided that your final project is analog. Feel free to interpret the words "visualization" and "representation" in whichever way you want. For instance, you could create a straightforward manifestation of the data you are seeing, or you can choose to focus on or be inspired by any aspect of the dataset. 
+(For instance: if you chose to write about [*Prison Map*,](http://prisonmap.com/) then you could create your own website that holds a grid of all the satellite images of schools in Massachusetts, as an example). 
 
-You will work with one other person. Post an entry on your blog that documents what you did, why you did it, and what it looks like. 
+You have the option to work with one other person, if you like. In this case, you have the option of choosing between the pieces that either of you wrote about for the week 2 assignment. Post an entry on your blog that documents what you did, why you did it, and what it looks like. 
 
 ## Presentations
 
-Your presentations should be about 7 minutes long.  For your presentation, walk us through your project from start to finish. What was your idea? Why did you want to do it? How did you do it? What did you end up with as a final piece? What did you learn? Feel free to use slides if you like. 
+Your presentations should be about 7 minutes long.  For your presentation, walk us through your project from start to finish. What was the project that you were responding to, and how did you think about how to approach doing this?  What was your process like? What did you end up with as a final piece? How is your piece different than the original, and do you think that it is stronger? You should use slides to present your work. 
 
 You will need to have a **documentation post** ([here](http://jillhubley.com/blog/nyctrees) is an example from a real-world project, though yours may be longer) that will be due the same week as your project. 
 
