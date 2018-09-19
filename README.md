@@ -104,8 +104,8 @@ HOMEWORK:
 HOMEWORK:
 
 - Read: 
-  - *Representation and the Necessity of Interpretation* by Laura Kurgan (see reading folder)
-  - [Trap Streets](http://www.cabinetmagazine.org/issues/47/bridle.php) by James Bridle 
+  - "Representation and the Necessity of Interpretation" by Laura Kurgan (excerpt from *Close Up At A Distance*, see reading folder)
+  - *Objectivity* by Lorraine Daston, Peter Galison (see reading folder, the selections are a couple of pages from the book. Ignore the section on page 19 titled "Collective Empiricism")
 - This week in class we began our conversation on what data is and how we should consider it. This week's homework assignment continues that discussion by focusing on maps and geographic data in particular. Do the reading, think about what we discuss, think about what you were able to glean from the dataset we briefly looked at in class, and respond on your blog to all of the following questions (submit using the homework form):
   - If all data is interpreted, as Kurgan (and some of you) say, what are datasets really tell us? How do we know when and how we can trust a dataset, and is there a standard rule for this? 
   - What are the different types of truth that a dataset can have? Can data reflect a number of different realities at once? 
