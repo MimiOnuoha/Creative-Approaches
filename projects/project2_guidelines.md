@@ -3,7 +3,6 @@
 ## Overview
 
 **Topic**: The Internet
-**Medium:** Interactive Art 
 
 The internet has become an inherently interactive network that is crucial to how many of us conduct our lives today. For your second project, you need to create an interactive artwork about the internet. 
 

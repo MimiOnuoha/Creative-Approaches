@@ -98,9 +98,19 @@ HOMEWORK:
 
   - Sorting Things Out* introduction (see readings folder)
 
-
 **WEEK THREE (September 19):**  Collections and Archives, part 1  
 *We'll finish up our conversation on how to evaluate art and begin a conversation around data collection, categorization, and considering datasets as a form of archive.*
+
+HOMEWORK:
+
+- Read: 
+  - *Representation and the Necessity of Interpretation* by Laura Kurgan (see reading folder)
+  - [Trap Streets](http://www.cabinetmagazine.org/issues/47/bridle.php) by James Bridle 
+- This week in class we began our conversation on what data is and how we should consider it. This week's homework assignment continues that discussion by focusing on maps and geographic data in particular. Do the reading, think about what we discuss, think about what you were able to glean from the dataset we briefly looked at in class, and respond on your blog to all of the following questions (submit using the homework form):
+  - If all data is interpreted, as Kurgan (and some of you) say, what are datasets really tell us? How do we know when and how we can trust a dataset, and is there a standard rule for this? 
+  - What are the different types of truth that a dataset can have? Can data reflect a number of different realities at once? 
+- Start thinking about and working on your first project! See the link in the projects folder for more information. 
+- Next week in class we will be doing an outdoor activity, dress appropriately! 
 
 **WEEK FOUR (September 26):**  Collections and Archives, part 2  
 *How do we use datasets without even realizing it? Considering maps as a form of data representation and visualization that highlight some of the most salient points about collection.* 

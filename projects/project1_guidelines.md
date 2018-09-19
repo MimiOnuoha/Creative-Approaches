@@ -2,9 +2,10 @@
 
 ## Overview
 
+**Topic: Data**
 **Due date: October 3**
 
-We've spent the last couple of weeks thinking about data collection and what it means to make creative interventions and pieces. For your first project assignment, you are tasked with creating a project that engages with both of these. 
+We've spent the last couple of weeks thinking about data collection and what it means to make artworks and creative interventions. For your first project assignment, you are tasked with creating a project that engages with both of these. 
 
 For your week 2 homework assignment, you wrote a review of a new media art piece. For this assignment, you need to create your own piece that emulates the style of whatever project or piece you wrote about. You should change the *subject* of your own piece, but do it in the same *style* as the original work. 
 
@@ -14,7 +15,6 @@ You have the option to work with one other person, if you like. In this case, yo
 
 ## Presentations
 
-Your presentations should be about 7 minutes long.  For your presentation, walk us through your project from start to finish. What was the project that you were responding to, and how did you think about how to approach doing this?  What was your process like? What did you end up with as a final piece? How is your piece different than the original, and do you think that it is stronger? You should use slides to present your work. 
+Your presentations should be about 7 minutes long.  For your presentation, walk us through your project from start to finish. What was the project that you were responding to, and how did you think about how to approach doing this?  What did you end up with as a final piece? In which ways is your piece different from the original, and which aspects were you focused on changing or replicating? You should use slides to present your work. 
 
-You will need to have a **documentation post** ([here](http://jillhubley.com/blog/nyctrees) is an example from a real-world project, though yours may be longer) that will be due the same week as your project. 
-
+You will need to have a **documentation post** ([here](http://jillhubley.com/blog/nyctrees) is an example from a real-world project, though yours may be longer) on your blog that accompanies the project. Upload it using the homework link. 
