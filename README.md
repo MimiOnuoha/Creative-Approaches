@@ -123,7 +123,14 @@ HOMEWORK:
     -  7 minute presentation 
        - Head's up: we'll be rigid about sticking to the time limit. You don't have to use slides for this presentation, but they may be useful for you. Make sure to tell us the name of the project you're responding to, but you don't have to give anything more than a one-line description of it. 
 
-Feel free to email if you have any questions, I'll also be around on Thursday from 10-2 and Tuesday pretty much all day. 
+Feel free to email if you have any questions, I'll also be around on Thursday from 10-2 and Tuesday afternoon as usual. 
+
+
+
+- Extra reading [optional]
+
+  - [Why is so much of design school a waste of time?](https://deardesignstudent.com/why-is-so-much-of-design-school-a-waste-of-time-39ec2a1aa7d5)
+
 
 **WEEK FIVE (October 3):**  Project 1 Presentations
 
