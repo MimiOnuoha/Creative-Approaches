@@ -115,6 +115,16 @@ HOMEWORK:
 **WEEK FOUR (September 26):**  Collections and Archives, part 2  
 *How do we use datasets without even realizing it? Considering maps as a form of data representation and visualization that highlight some of the most salient points about collection.* 
 
+HOMEWORK:
+
+ - Work on your projects! See the description in the projects folder. Remember that you need three things:
+    - The deliverable, aka your actual project
+    - Documentation post submitted before class with the homework link 
+    -  7 minute presentation 
+       - Head's up: we'll be rigid about sticking to the time limit. You don't have to use slides for this presentation, but they may be useful for you. Make sure to tell us the name of the project you're responding to, but you don't have to give anything more than a one-line description of it. 
+
+Feel free to email if you have any questions, I'll also be around on Thursday from 10-2 and Tuesday pretty much all day. 
+
 **WEEK FIVE (October 3):**  Project 1 Presentations
 
 **WEEK SIX (October 10):**  The Internet, part 1  
