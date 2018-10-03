@@ -131,8 +131,15 @@ Feel free to email if you have any questions, I'll also be around on Thursday fr
 
   - [Why is so much of design school a waste of time?](https://deardesignstudent.com/why-is-so-much-of-design-school-a-waste-of-time-39ec2a1aa7d5)
 
-
 **WEEK FIVE (October 3):**  Project 1 Presentations
+
+HOMEWORK:
+
+- Read: 
+  - [Internet History -- One Page Summary](https://www.livinginternet.com/i/ii_summary.htm)  
+  - [The Critical Engineering Manifesto](https://criticalengineering.org/en) 
+
+This week you don't have to write about these readings (but you still have to do them). 
 
 **WEEK SIX (October 10):**  The Internet, part 1  
 *For the purposes of this class, everything begins with the Internet. Where did it come from, how does it work, and what does it mean for such a widely-used medium to have so much of its inner workings concealed?*
