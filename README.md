@@ -138,6 +138,8 @@ HOMEWORK:
 - Read: 
   - [Internet History -- One Page Summary](https://www.livinginternet.com/i/ii_summary.htm)  
   - [The Critical Engineering Manifesto](https://criticalengineering.org/en) 
+- Extra reading [optional]
+  - [Brief History of the Internet](https://www.internetsociety.org/internet/history-internet/brief-history-internet/) 
 
 This week you don't have to write about these readings (but you still have to do them). 
 
@@ -147,20 +149,25 @@ This week you don't have to write about these readings (but you still have to do
 **WEEK SEVEN (October 17):**  The Internet, part 2   
 *What does it mean for such a widely-used medium to have much of its inner workings concealed?* 
 
-**WEEK EIGHT (October 24):**   Project 2 Presentations  
+**WEEK EIGHT (October 24):**   The Internet, part 3
+*Time in class to work on second project*  
 
-**WEEK NINE (October 31):** Automation, Social Algorithms, and AI, part 1  
-*We are in a uniquely algorithmic moment. How do we make sense of this, how we got here, and the distance from the beginnings of the internet to here?*   
+**WEEK NINE (October 31):** Project 2 Presentations 
 
-**WEEK TEN (November 7):**  Automation, Social Algorithms, and AI, part 2  
-*What we are talking about when we really talk about automation.*
+**WEEK TEN (November 7):**  Automation, Social Algorithms, and AI, part 1  
+*We are in a uniquely algorithmic moment. How do we make sense of this, how we got here, and the distance from the beginnings of the internet to here?*  
 
-**WEEK ELEVEN (November 21):**  Project 3 Presentations (initial versions)     
+**WEEK ELEVEN (November 21):**   Automation, Social Algorithms, and AI, part 2  
+*What we are talking about when we really talk about automation.* 
 
-**WEEK TWELVE (November 28):** Futures 
+**WEEK TWELVE (November 28):** Presentations, part 1 
 *Alternatives, futures, and time in class to prepare for next week* 
 
-**WEEK THIRTEEN (December 5):** Final Presentations (with guest critics)  
+**WEEK THIRTEEN (December 5):** Presentations, part 2 (with guest critics)  
+
+**WEEK FOURTEEN (December 12/13)**: Show final work 
+
+
 
 
 
