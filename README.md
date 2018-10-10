@@ -106,7 +106,7 @@ HOMEWORK:
 - Read: 
   - "Representation and the Necessity of Interpretation" by Laura Kurgan (excerpt from *Close Up At A Distance*, see reading folder)
   - *Objectivity* by Lorraine Daston, Peter Galison (see reading folder, the selections are a couple of pages from the book. Ignore the section on page 19 titled "Collective Empiricism")
-- This week in class we began our conversation on what data is and how we should consider it. This week's homework assignment continues that discussion by focusing on maps and geographic data in particular. Do the reading, think about what we discuss, think about what you were able to glean from the dataset we briefly looked at in class, and respond on your blog to all of the following questions (submit using the homework form):
+- Do the reading, think about what we discuss, think about what you were able to glean from the dataset we briefly looked at in class, and respond on your blog to all of the following questions (submit using the homework form):
   - If all data is interpreted, as Kurgan (and some of you) say, what are datasets really tell us? How do we know when and how we can trust a dataset, and is there a standard rule for this? 
   - What are the different types of truth that a dataset can have? Can data reflect a number of different realities at once? 
 - Start thinking about and working on your first project! See the link in the projects folder for more information. 
@@ -121,11 +121,9 @@ HOMEWORK:
     - The deliverable, aka your actual project
     - Documentation post submitted before class with the homework link 
     -  7 minute presentation 
-       - Head's up: we'll be rigid about sticking to the time limit. You don't have to use slides for this presentation, but they may be useful for you. Make sure to tell us the name of the project you're responding to, but you don't have to give anything more than a one-line description of it. 
+       - Head's up: we'll be rigid about sticking to the time limit. 
 
 Feel free to email if you have any questions, I'll also be around on Thursday from 10-2 and Tuesday afternoon as usual. 
-
-
 
 - Extra reading [optional]
 
@@ -146,10 +144,20 @@ This week you don't have to write about these readings (but you still have to do
 **WEEK SIX (October 10):**  The Internet, part 1  
 *For the purposes of this class, everything begins with the Internet. Where did it come from, how does it work, and what does it mean for such a widely-used medium to have so much of its inner workings concealed?*
 
-**WEEK SEVEN (October 17):**  The Internet, part 2   
-*What does it mean for such a widely-used medium to have much of its inner workings concealed?* 
+HOMEWORK:
 
-**WEEK EIGHT (October 24):**   The Internet, part 3
+- Read:
+  - Julian Oliver - [Stealth Infrastructure](http://rhizome.org/editorial/2014/may/20/stealth-infrastructure/)  
+  - Maciej Ceglowski's ["The Internet With A Human Face"](http://idlewords.com/talks/internet_with_a_human_face.htm)
+  - Once you've finished reading these, write a 200-300 word response on one or both of the readings. What stood out to you? What are you considering about the internet that you didn't know before? What do you want to know more about? 
+- Fill out [this survey](https://goo.gl/forms/YINieQO7EX1d5XI13) about who you might want to work with for the second project. Be sure to read the directions carefully. 
+- Extra reading [optional]
+  - [The Secrets of Surveillance Capitalism](http://www.faz.net/aktuell/feuilleton/debatten/the-digital-debate/shoshana-zuboff-secrets-of-surveillance-capitalism-14103616.html) - Shoshana Zuboff
+
+**WEEK SEVEN (October 17):**  The Internet, part 2   
+*More on the internet and engineering.*
+
+**WEEK EIGHT (October 24):**   The Internet, part 3  
 *Time in class to work on second project*  
 
 **WEEK NINE (October 31):** Project 2 Presentations 
@@ -160,7 +168,7 @@ This week you don't have to write about these readings (but you still have to do
 **WEEK ELEVEN (November 21):**   Automation, Social Algorithms, and AI, part 2  
 *What we are talking about when we really talk about automation.* 
 
-**WEEK TWELVE (November 28):** Presentations, part 1 
+**WEEK TWELVE (November 28):** Presentations, part 1    
 *Alternatives, futures, and time in class to prepare for next week* 
 
 **WEEK THIRTEEN (December 5):** Presentations, part 2 (with guest critics)  
