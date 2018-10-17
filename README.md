@@ -157,6 +157,31 @@ HOMEWORK:
 **WEEK SEVEN (October 17):**  The Internet, part 2   
 *More on the internet and engineering.*
 
+HOMEWORK:
+
+- You should meet or converse with your partner and begin discussing ideas for what you might want to focus on. You don't have to come to class next week with a complete idea (remember, you'll have time in class to work on things), but you should have done some preliminary thinking or research. 
+
+- For inspiration, read and check out these project and/or art pieces: 
+
+  - [Algorithmic Citizenship](http://citizen-ex.com/citizenship) (Citizen Ex by James Bridle)
+
+  - [Newtweek](https://newstweek.com/) (Julian Oliver)
+
+  - [Field Guide to New York](http://seeingnetworks.in/nyc/) (Seeing Networks by Ingrid Burrington)
+
+  - [El Paquete](http://seeingnetworks.in/nyc/) (Julia Weist, Nestor Sire)
+
+  - [The Infinite Campaign](https://lav.io/projects/the-infinite-campaign/) (Sam Lavigne)
+
+  - [Friendfracker](http://www.lozano-hemmer.com/friendfracker.php) (Rafael Lozano-Hemmer, Harper Reed)
+
+  - [AdNauseam](https://adnauseam.io/) (Helen Nissenbaum, Mushon Zer-Aviv)
+
+  - Mozilla's [Internet Health Report](https://internethealthreport.org/2018/) (just skim this, get the general idea)
+
+  - [OPTIONAL]Note that there are lots of things we haven't talked about! Consider diving into forms of art facilitated by the internet: [Internet Art](https://whitney.org/exhibitions/artport/commissions/sunrise-sunset) [GIF art](https://creators.vice.com/en_au/article/xy4k5w/black-gif-artist-community), [Tumblr art](http://izumimiyazaki.tumblr.com/),  [work that uses the language of the net rather focusing on the structure of the net](http://refrakt.org/slide-to-expose/), [work based on old websites](https://hyperallergic.com/230415/hundreds-of-geocities-images-organized-neatly/), and basically [anything from these two](http://www.blacknetart.com/index1_1.html)
+
+
 **WEEK EIGHT (October 24):**   The Internet, part 3  
 *Time in class to work on second project*  
 

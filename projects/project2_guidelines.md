@@ -4,9 +4,9 @@
 
 **Topic**: The Internet
 
-The internet has become an inherently interactive network that is crucial to how many of us conduct our lives today. For your second project, you need to create an interactive artwork about the internet. 
+The internet has become an inherently interactive network that is crucial to how many of us conduct our lives today. For your second project, you need to work in teams to create a piece of work about the internet. 
 
-Working in teams, your assignment is to choose an aspect of the internet that is hidden or that you find surprising and find a way to communicate it. Imagine that your audience is composed of your Olin classmates. Keep in mind that interactivity can look like a number of things: a workshop, a website, a mobile app, a performance. The only requirement is that your audience cannot passively sit and listen; they must participate in some meaningful way. 
+Your assignment is to choose any aspect of the internet (physical, cultural, historical, political, economic, cellular, etc) that is hidden or that you find surprising and find a way to communicate some aspect of it. It may help you to define an intended audience for yourself; if you can't come up with one, imagine that your audience is composed of your Olin classmates. It may also help you to come up with a piece that answers a question. Starting from a question can help you identify the things that you find interesting to explore, or give you a direction for consideration. 
 
 ## Presentations
 
