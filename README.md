@@ -159,27 +159,25 @@ HOMEWORK:
 
 HOMEWORK:
 
-- You should meet or converse with your partner and begin discussing ideas for what you might want to focus on. You don't have to come to class next week with a complete idea (remember, you'll have time in class to work on things), but you should have done some preliminary thinking or research. 
+- You should meet or converse with your partner and begin discussing ideas for what you might want to focus on. You don't have to come to class next week with a complete idea (remember, you'll have time in class to work), but you should have done some preliminary thinking or research. Post your thoughts, brainstorms, or leanings for the project on your blog and submit using the homework form. You are welcome to pull in thoughts about any of the projects below if they resonate with you, but this is not required. 
 
-- For inspiration, read and check out these project and/or art pieces: 
+- For inspiration, read and check out these project and/or art pieces. Most are directly about the internet, but some deal with aspects related to it (like memory, archives, advertising, surveillance). Some of the links I've provided are articles about the work rather than the actual pieces.  You won't be able to get through all of these, so focus on the ones that stand out to you. I suggest diving deeper into at least six. 
 
-  - [Algorithmic Citizenship](http://citizen-ex.com/citizenship) (Citizen Ex by James Bridle)
-
-  - [Newtweek](https://newstweek.com/) (Julian Oliver)
-
+  - [Algorithmic Citizenship](http://citizen-ex.com/citizenship) (James Bridle) 
+  - [FIREWALL](https://hyperallergic.com/280849/surf-chinas-censored-web-at-an-internet-cafe-in-new-york/) (Joyce Yu-Jean Lee )
+  - [Iyapo Repository](https://creators.vice.com/en_us/article/8qv34x/afrofuturist-museum-artifacts-from-the-future) (Salome Asega  + Ayodamola Okunseinde)
   - [Field Guide to New York](http://seeingnetworks.in/nyc/) (Seeing Networks by Ingrid Burrington)
-
-  - [El Paquete](http://seeingnetworks.in/nyc/) (Julia Weist, Nestor Sire)
-
-  - [The Infinite Campaign](https://lav.io/projects/the-infinite-campaign/) (Sam Lavigne)
-
   - [Friendfracker](http://www.lozano-hemmer.com/friendfracker.php) (Rafael Lozano-Hemmer, Harper Reed)
-
+  - [Dances for Mobile Phones](http://www.evan-roth.com/work/redlines/) and [Red Lines](http://www.evan-roth.com/work/redlines/) (Evan Roth)
+  - [El Paquete](http://seeingnetworks.in/nyc/) (Julia Weist, Nestor Sire) 
+  - [A Refusal](https://americanartist.us/a-refusal) (American Artist)
+  - [The Infinite Campaign](https://lav.io/projects/the-infinite-campaign/) (Sam Lavigne)
+  - [My Boyfriend Came Back From The War](https://anthology.rhizome.org/my-boyfriend-came-back-from-the-war) (Olia Lillian)
+  - [Code Names of the Surveillance State](http://www.paglen.com/?l=work&s=code_names_of_the_) (Trevor Paglen)
+  - [Being Invisible Can Be Deadly](https://www.youtube.com/watch?v=kKAKgrZZ_ww) (Hito Steyerl - note that this is the vid about the project) 
   - [AdNauseam](https://adnauseam.io/) (Helen Nissenbaum, Mushon Zer-Aviv)
-
-  - Mozilla's [Internet Health Report](https://internethealthreport.org/2018/) (just skim this, get the general idea)
-
-  - [OPTIONAL]Note that there are lots of things we haven't talked about! Consider diving into forms of art facilitated by the internet: [Internet Art](https://whitney.org/exhibitions/artport/commissions/sunrise-sunset) [GIF art](https://creators.vice.com/en_au/article/xy4k5w/black-gif-artist-community), [Tumblr art](http://izumimiyazaki.tumblr.com/),  [work that uses the language of the net rather focusing on the structure of the net](http://refrakt.org/slide-to-expose/), [work based on old websites](https://hyperallergic.com/230415/hundreds-of-geocities-images-organized-neatly/), and basically [anything from these two](http://www.blacknetart.com/index1_1.html)
+  - Mozilla's [Internet Health Report](https://internethealthreport.org/2018/) (just skim this, get the general idea and consider if it is useful or not) 
+  - [OPTIONAL] There are lots of things we haven't talked about! Consider diving into forms of art facilitated by the internet: [Internet Art](https://whitney.org/exhibitions/artport/commissions/sunrise-sunset), [Tumblr art](http://izumimiyazaki.tumblr.com/), [meme art](https://anthology.rhizome.org/untitled-clefa), [work that uses the language of the net rather focusing on the structure of the net](http://refrakt.org/slide-to-expose/), [work based on old websites](https://hyperallergic.com/230415/hundreds-of-geocities-images-organized-neatly/), and basically [anything from these two](http://www.blacknetart.com/index1_1.html)
 
 
 **WEEK EIGHT (October 24):**   The Internet, part 3  
