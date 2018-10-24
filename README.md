@@ -191,10 +191,10 @@ HOMEWORK:
 **WEEK ELEVEN (November 21):**   Automation, Social Algorithms, and AI, part 2  
 *What we are talking about when we really talk about automation.* 
 
-**WEEK TWELVE (November 28):** Presentations, part 1    
-*Alternatives, futures, and time in class to prepare for next week* 
+**WEEK TWELVE (November 28):** Work Day (Details TBH)   
+*Class will not meet this week, students will have two weeks to work on their projects.*
 
-**WEEK THIRTEEN (December 5):** Presentations, part 2 (with guest critics)  
+**WEEK THIRTEEN (December 5):** Presentations (with guest critics)  
 
 **WEEK FOURTEEN (December 12/13)**: Show final work 
 
