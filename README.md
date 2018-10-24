@@ -181,9 +181,20 @@ HOMEWORK:
 
 
 **WEEK EIGHT (October 24):**   The Internet, part 3  
-*Time in class to work on second project*  
+*Short discussion on decentralized web; time in class to work on second project*  
 
-**WEEK NINE (October 31):** Project 2 Presentations 
+HOMEWORK:
+
+- Work on your projects! See the description in the projects folder. Remember that you need three things:
+  - The deliverable, aka your actual project
+  - Documentation post submitted before class with the homework link (only one of you needs to submit it) 
+  - 7 minute presentation 
+
+Just like last week, you'll also be critiquing and responding to some of your classmates' projects. 
+
+Email me if you have any questions! On Friday I won't be online, but otherwise will be checking my email frequently. 
+
+**WEEK NINE (October 31):** Project 2 Presentations | Halloween 
 
 **WEEK TEN (November 7):**  Automation, Social Algorithms, and AI, part 1  
 *We are in a uniquely algorithmic moment. How do we make sense of this, how we got here, and the distance from the beginnings of the internet to here?*  
