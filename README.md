@@ -197,6 +197,15 @@ Email me if you have any questions! On Friday I won't be online, but otherwise w
 
 **WEEK NINE (October 31):** Project 2 Presentations | Halloween 
 
+HOMEWORK:
+
+- We're approaching our last few weeks of classes, which means that we're going to be focusing more on depth and autonomy than on breadth. Please be candid in filling out this anonymous  survey to give your feedback on how things have been going, and what you want to see more of: https://goo.gl/forms/cyn4GYeG5asPzBgy2
+- Read:
+  - A Mathematician's Lament, by Paul Lockhart (in [readings folder](https://github.com/MimiOnuoha/Creative-Approaches/blob/master/readings/A_Mathematician's_Lament.pdf))
+  - [Soft Talk: Thoughts on Critique](http://x-traonline.org/article/soft-talk-thoughts-on-critique/), by Leslie Dick
+
+No need to respond to these, I just want you to be thinking about them. 
+
 **WEEK TEN (November 7):**  Automation, Social Algorithms, and AI, part 1  
 *We are in a uniquely algorithmic moment. How do we make sense of this, how we got here, and the distance from the beginnings of the internet to here?*  
 
