@@ -6,8 +6,8 @@
 **Time:** Wednesdays, 12:30pm-3:00pm  
 **Course Number:**  AHSE 2199-01   
 **Office Hours:** MHL36, Tuesdays 1-3pm ([sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUl0bkJBeEw5QmpTfGRlZmF1bHR8MTVmMGJiY2ZkYjkyNWQ0NGQ1Y2YzODliMDQ0MmRlODU)) or by email  
-**Homework Form**: https://goo.gl/forms/q63gysDdtad3HrWF2
-**NYTZF volunteer form:** https://goo.gl/forms/VjZeCwuFcvednHZq1
+**Homework Form**: https://goo.gl/forms/q63gysDdtad3HrWF2   
+**Class Homework Wiki**: https://github.com/MimiOnuoha/Creative-Approaches/wiki/Homework
 
 ## Course Description
 
