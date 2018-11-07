@@ -209,11 +209,34 @@ No need to respond to these, I just want you to be thinking about them.
 **WEEK TEN (November 7):**  Automation, Social Algorithms, and AI, part 1  
 *We are in a uniquely algorithmic moment. How do we make sense of this, how we got here, and the distance from the beginnings of the internet to here?*  
 
+HOMEWORK 
+
+- Come up with a hunch and some preliminary concepts/ideas for your final project. Of everything we've talked about over the semester, what stands out to you? Feel free to scroll back up and look at some of the topics that we've covered or to revisit your blogposts. Include drawings, sample images, things that inspire you, etc. **Include them in the blogpost entry that you write, along with your response to the reading below.** 
+
+- Reading:
+
+  - Upturn's  *Automation & The Quantified Society* (read pages 7 - 22) | *An overview to the different sociotechnical issues that AI and automation bring us to confront.*
+
+    ​        IN ADDITION TO THE ABOVE, CHOOSE **ONE** OF THE BELOW TO READ: 
+
+  - [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) - Propublica (Julia Angwin, Jeff Larson, Surya Mattu, Lauren Kirchner) | *A specific US example of the general issues covered in the Upturn report*
+
+  - [The odd reality of life under China's all-seeing credit score system](https://www.wired.co.uk/article/china-social-credit) - WIRED (Charles Rollet)| *A specific  example in China of the general issues covered in the Upturn report*
+
+  - After doing your two readings, write up a 250-300 blogpost response. You've been lightly exposed to a number of issues surrounding automation, AI, fairness, and the difficulties of implementing this out in the wild. What stands out to you the most about these issues? Is there anything that you find particularly unsatisfying, captivating, or overlooked? What more do you want to know, and how does this connect with what you already know or are learning? 
+
+    - Post your answer online and submit either using the homework form (private) or by posting online at [the wiki](https://github.com/MimiOnuoha/Creative-Approaches/wiki/Homework) (public, so your classmates can see). 
+
+- Extra Reading: 
+
+  -  *[A People's Guide To AI](https://www.alliedmedia.org/peoples-ai)*  | *This guide is specifically geared towards non-technical folks, but if you feel like you struggled with Upturn's report, checking the Table of Contents and flipping to relevant sections might be useful for you.*
+  - [How the QR code conquered China](https://www.abacusnews.com/who-what/how-qr-code-conquered-china/article/2136537) (Abascus News, h/t Seungin) | *adjacent and relevant to our conversation*
+  - [Not Art & Tech](http://contemporary-home-computing.org/art-and-tech/not/) (Olia Lialina) | *about the power of naming when it comes to art&tech, and about far more* 
+
 **WEEK ELEVEN (November 21):**   Automation, Social Algorithms, and AI, part 2  
 *What we are talking about when we really talk about automation.* 
 
 **WEEK TWELVE (November 28):** Work Day (Details TBH)   
-*Class will not meet this week, students will have two weeks to work on their projects.*
 
 **WEEK THIRTEEN (December 5):** Presentations (with guest critics)  
 
