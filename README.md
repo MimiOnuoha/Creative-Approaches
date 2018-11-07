@@ -215,7 +215,7 @@ HOMEWORK
 
 - Reading:
 
-  - Upturn's  *Automation & The Quantified Society* (read pages 7 - 22) | *An overview to the different sociotechnical issues that AI and automation bring us to confront.*
+  - Upturn's  [*Automation & The Quantified Society*](https://mimionuoha.github.io/classmaterials/upturn-abridged.pdf) (read pages 7 - 22) | *An overview to the different sociotechnical issues that AI and automation bring us to confront.*
 
     ​        IN ADDITION TO THE ABOVE, CHOOSE **ONE** OF THE BELOW TO READ: 
 
