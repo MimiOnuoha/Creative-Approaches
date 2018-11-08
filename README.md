@@ -211,7 +211,7 @@ No need to respond to these, I just want you to be thinking about them.
 
 HOMEWORK 
 
-- Come up with a hunch and some preliminary concepts/ideas for your final project. Of everything we've talked about over the semester, what stands out to you? Feel free to scroll back up and look at some of the topics that we've covered or to revisit your blogposts. Include drawings, sample images, things that inspire you, etc. **Include them in the blogpost entry that you write, along with your response to the reading below.** 
+- Come up with a hunch and some preliminary concepts/ideas for your final project.  Of everything we've talked about over the semester, what do you want to create work about? What forms are you interested in? What type of feel do you want your project to have? Feel free to scroll back up and look at some of the topics that we've covered or to revisit your blogposts. Include drawings, sample images, things that inspire you, etc. **Include this in the blogpost entry that you write, along with your response to the reading below.** 
 
 - Reading:
 
@@ -223,9 +223,10 @@ HOMEWORK
 
   - [The odd reality of life under China's all-seeing credit score system](https://www.wired.co.uk/article/china-social-credit) - WIRED (Charles Rollet)| *A specific  example in China of the general issues covered in the Upturn report*
 
-  - After doing your two readings, write up a 250-300 blogpost response. You've been lightly exposed to a number of issues surrounding automation, AI, fairness, and the difficulties of implementing this out in the wild. What stands out to you the most about these issues? Is there anything that you find particularly unsatisfying, captivating, or overlooked? What more do you want to know, and how does this connect with what you already know or are learning? 
+  - After doing your two readings, write up a 100-300 blogpost response. You've been lightly exposed to a number of issues surrounding automation, AI, fairness, and the difficulties of implementing this out in the wild. What stands out to you the most about these issues? Is there anything that you find particularly unsatisfying, captivating, or overlooked? What more do you want to know, and how does this connect with what you already know or are learning? 
 
     - Post your answer online and submit either using the homework form (private) or by posting online at [the wiki](https://github.com/MimiOnuoha/Creative-Approaches/wiki/Homework) (public, so your classmates can see). 
+    - Definitely think about this, and include everything that is interesting to you, but spend more time on thinking about a final project idea. 
 
 - Extra Reading: 
 
