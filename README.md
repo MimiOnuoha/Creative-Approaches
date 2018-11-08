@@ -234,6 +234,8 @@ HOMEWORK
   - [How the QR code conquered China](https://www.abacusnews.com/who-what/how-qr-code-conquered-china/article/2136537) (Abascus News, h/t Seungin) | *adjacent and relevant to our conversation*
   - [Not Art & Tech](http://contemporary-home-computing.org/art-and-tech/not/) (Olia Lialina) | *about the power of naming when it comes to art&tech, and about far more* 
 
+- BONUS: [here are your responses](https://docs.google.com/spreadsheets/d/1v7Y77LoAHJg75UARhILm-U-jehPzpsONbUfAMtgjsNQ/edit#gid=1574012706) to the survey sent out last week. 
+
 **WEEK ELEVEN (November 21):**   Automation, Social Algorithms, and AI, part 2  
 *What we are talking about when we really talk about automation.* 
 
