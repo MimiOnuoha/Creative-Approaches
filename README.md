@@ -216,25 +216,21 @@ HOMEWORK
   - NOTE: Some of you mentioned in the class survey that you respond to looking at and viewing works by existing artists. For all of you, I'm compiling a list of works [here](https://github.com/MimiOnuoha/Creative-Approaches/wiki/Resources-&-Inspiration). 
 
 - Reading:
-
   - Upturn's  [*Automation & The Quantified Society*](https://mimionuoha.github.io/classmaterials/upturn-abridged.pdf) (read pages 7 - 22) | *An overview to the different sociotechnical issues that AI and automation bring us to confront.*
-
     ​        IN ADDITION TO THE ABOVE, CHOOSE **ONE** OF THE BELOW TO READ: 
-
   - [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) - Propublica (Julia Angwin, Jeff Larson, Surya Mattu, Lauren Kirchner) | *A specific US example of the general issues covered in the Upturn report*
-
   - [The odd reality of life under China's all-seeing credit score system](https://www.wired.co.uk/article/china-social-credit) - WIRED (Charles Rollet)| *A specific  example in China of the general issues covered in the Upturn report*
-
   - After doing your two readings, write up a 100-300 blogpost response. You've been lightly exposed to a number of issues surrounding automation, AI, fairness, and the difficulties of implementing this out in the wild. What stands out to you the most about these issues? Is there anything that you find particularly unsatisfying, captivating, or overlooked? What more do you want to know, and how does this connect with what you already know or are learning? 
 
     - Post your answer online and submit either using the homework form (private) or by posting online at [the wiki](https://github.com/MimiOnuoha/Creative-Approaches/wiki/Homework) (public, so your classmates can see). 
     - Definitely think about this, and include everything that is interesting to you, but spend more time on thinking about a final project idea. 
 
 - Extra Reading: 
-
+- 
   -  *[A People's Guide To AI](https://www.alliedmedia.org/peoples-ai)*  | *This guide is specifically geared towards non-technical folks, but if you feel like you struggled with Upturn's report, checking the Table of Contents and flipping to relevant sections might be useful for you.*
   - [How the QR code conquered China](https://www.abacusnews.com/who-what/how-qr-code-conquered-china/article/2136537) (Abascus News, h/t Seungin) | *adjacent and relevant to our conversation*
   - [Not Art & Tech](http://contemporary-home-computing.org/art-and-tech/not/) (Olia Lialina) | *about the power of naming when it comes to art&tech, and about far more* 
+  -  [Algorithmic Media Need Democratic Methods: Why Publics Matter](https://github.com/MimiOnuoha/Creative-Approaches/blob/master/readings/Algorithmic%20Media%20Need%20Democratic%20Methods-%20Why%20Publics%20Matter.pdf) (Fenwick McKelvey, in readings folder)  | *Someone mentioned wanting more scholarly readings and approaches to these topic. This article, about how we can mediate the issues raised by algorithmic media, is for you.* 
 
 - BONUS: [here are your responses](https://docs.google.com/spreadsheets/d/1v7Y77LoAHJg75UARhILm-U-jehPzpsONbUfAMtgjsNQ/edit#gid=1574012706) to the survey sent out last week. 
 
