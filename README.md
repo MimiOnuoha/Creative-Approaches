@@ -211,7 +211,9 @@ No need to respond to these, I just want you to be thinking about them.
 
 HOMEWORK 
 
-- Come up with a hunch and some preliminary concepts/ideas for your final project.  Of everything we've talked about over the semester, what do you want to create work about? What forms are you interested in? What type of feel do you want your project to have? Feel free to scroll back up and look at some of the topics that we've covered or to revisit your blogposts. Include drawings, sample images, things that inspire you, etc. **Include this in the blogpost entry that you write, along with your response to the reading below.** 
+- Come up with a hunch and some preliminary concepts/ideas for your final project. Remember, a hunch can be a [vision, obsession, question, concept](https://github.com/MimiOnuoha/Creative-Approaches/blob/master/week-10/nothingtosomething1_%5Bfrommarinazurkowandzannamarsh%5D.JPG). It can also be a feeling,  juxtaposition, a thought.  Of everything we've talked about over the semester, what do you want to create work about? What forms are you interested in? What type of feel do you want your project to have? Feel free to scroll back up and look at some of the topics that we've covered or to revisit your blogposts. Include drawings, sample images, things that inspire you, etc. **Include these in the blogpost entry that you write about what your hunch is, along with your response to the reading below.** 
+
+  - NOTE: Some of you mentioned in the class survey that you respond to looking at and viewing works by existing artists. For all of you, I'm compiling a list of works [here](https://github.com/MimiOnuoha/Creative-Approaches/wiki/Resources-&-Inspiration). 
 
 - Reading:
 
