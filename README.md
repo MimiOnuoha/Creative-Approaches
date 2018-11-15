@@ -242,6 +242,7 @@ HOMEWORK:
 - Come next week with a piece, project, or prototype. You don't need slides and a presentation, but you do need to have a something done that you can informally present to other members in the class. Remember: you don't always have to know *exactly* what you want to do and then create that. Sometimes the process of making something is what helps you refine the idea.
   - Advice from me: play to your strengths, be ambitious but be realistic. Use this as a chance to do what you've wanted to, but haven't. 
 - ASAP: post on homework wiki or through the homework form what you're planning on doing and if you're looking for any resources. As soon as I know what you're working on, I can cater things to you. 
+- Reading [optional]: [What the Boston School Bus Schedule Can Teach Us About AI](https://www.wired.com/story/joi-ito-ai-and-bus-routes/), Joi Ito  
 
 ENJOY THANKSGIVING BREAK! 
 
