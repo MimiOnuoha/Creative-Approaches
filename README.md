@@ -237,7 +237,15 @@ HOMEWORK
 **WEEK ELEVEN (November 21):**   Automation, Social Algorithms, and AI, part 2  
 *What we are talking about when we really talk about automation.* 
 
-**WEEK TWELVE (November 28):** Work Day (Details TBH)   
+HOMEWORK:
+
+- Come next week with a piece, project, or prototype. You don't need slides and a presentation, but you do need to have a something done that you can informally present to other members in the class. Remember: you don't always have to know *exactly* what you want to do and then create that. Sometimes the process of making something is what helps you refine the idea.
+  - Advice from me: play to your strengths, be ambitious but be realistic. Use this as a chance to do what you've wanted to, but haven't. 
+- ASAP: post on homework wiki or through the homework form what you're planning on doing and if you're looking for any resources. As soon as I know what you're working on, I can cater things to you. 
+
+ENJOY THANKSGIVING BREAK! 
+
+**WEEK TWELVE (November 28):** Final Projects critical and time to 
 
 **WEEK THIRTEEN (December 5):** Presentations (with guest critics)  
 
