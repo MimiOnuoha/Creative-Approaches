@@ -246,7 +246,12 @@ HOMEWORK:
 
 ENJOY THANKSGIVING BREAK! 
 
-**WEEK TWELVE (November 28):** Final Projects critical and time to 
+**WEEK TWELVE (November 28):** Final projects working time through crit session (with Robert)
+
+HOMEWORK:
+
+ - Advance your progress on your final project! Take into account the feedback from Robert and your classmates. Email me if you have any questions or need support, and come prepared to talk about what changes you've made to your work. Please post 200-300 words about the updates you've made on your blog and submit using the homework link or the homework wiki
+
 
 **WEEK THIRTEEN (December 5):** Presentations (with guest critics)  
 
