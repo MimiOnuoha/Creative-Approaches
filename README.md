@@ -256,9 +256,9 @@ HOMEWORK:
 
 HOMEWORK: 
 
-- Your assignment this week is to finish up your final projects. Next week you'll be presenting them. Look out for information from me in a forthcoming email about the time, format, and things you should prepare for this presentation. Keep in that a photographer will be there to document your work for the college. 
+- Send me the answers to the questions you had to respond to during class! Use the homework form or even just email. 
+- Finish up your final projects. Next week you'll be presenting them. Look out for information from me in a forthcoming email about the time, format, and things you should prepare for this presentation (plus details about course evaluations). Keep in mind that we'll be meeting in the morning and a photographer will be there to document your work for the college.
 - Make sure that you (or **one person** from your group) does a documentation post about your project on your blog. Please post it on the homework wiki.
-- Remember that we will be meeting in the morning, not at our usual time! 
 
 OPTIONAL READING:
 
