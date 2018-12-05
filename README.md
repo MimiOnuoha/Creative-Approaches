@@ -257,9 +257,8 @@ HOMEWORK:
 HOMEWORK: 
 
 - Your assignment this week is to finish up your final projects. Next week you'll be presenting them. Look out for information from me in a forthcoming email about the time, format, and things you should prepare for this presentation. Keep in that a photographer will be there to document your work for the college. 
-- Make sure that you (or **one person** from your group) does a documentation post about project on your blog. Please post it on the homework wiki.
-
-
+- Make sure that you (or **one person** from your group) does a documentation post about your project on your blog. Please post it on the homework wiki.
+- Remember that we will be meeting in the morning, not at our usual time! 
 
 **WEEK FOURTEEN (December 12)**: Show final work 
 
