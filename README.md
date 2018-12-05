@@ -260,6 +260,11 @@ HOMEWORK:
 - Make sure that you (or **one person** from your group) does a documentation post about your project on your blog. Please post it on the homework wiki.
 - Remember that we will be meeting in the morning, not at our usual time! 
 
+OPTIONAL READING:
+
+ - [A fun piece by Julia Weist](https://www.newyorker.com/culture/culture-desk/a-new-word-on-the-internet?irgwc=1&source=affiliate_impactpmx_12f6tote_desktop_adgoal%20GmbH&mbid=affiliate_impactpmx_12f6tote_desktop_adgoal%20GmbH)
+
+
 **WEEK FOURTEEN (December 12)**: Show final work 
 
 
