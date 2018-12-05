@@ -250,12 +250,18 @@ ENJOY THANKSGIVING BREAK!
 
 HOMEWORK:
 
- - Advance your progress on your final project! Take into account the feedback from Robert and your classmates. Email me if you have any questions or need support, and come prepared to talk about what changes you've made to your work. Please post 200-300 words about the updates you've made on your blog and submit using the homework link or the homework wiki
-
+ - Advance your progress on your final project! Take into account the feedback from Robert and your classmates. Email me if you have any questions or need support, and come prepared to talk about what changes you've made to your work. Please post 200-300 words about the updates you've made on your blog and submit using the homework link or the homework wiki. 
 
 **WEEK THIRTEEN (December 5):** Presentations (with guest critics)  
 
-**WEEK FOURTEEN (December 12/13)**: Show final work 
+HOMEWORK: 
+
+- Your assignment this week is to finish up your final projects. Next week you'll be presenting them. Look out for information from me in a forthcoming email about the time, format, and things you should prepare for this presentation. Keep in that a photographer will be there to document your work for the college. 
+- Make sure that you (or **one person** from your group) does a documentation post about project on your blog. Please post it on the homework wiki.
+
+
+
+**WEEK FOURTEEN (December 12)**: Show final work 
 
 
 
